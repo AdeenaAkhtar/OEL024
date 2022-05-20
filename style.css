@@ -43,7 +43,7 @@ body{
     0 0 151px #E2D0D3;
 }
 .carousel-item{
-    max-height: 350px;
+    max-height: 345px;
     margin: 100px 0px 100px 0px;
 }
 .container{
@@ -59,7 +59,7 @@ body{
     justify-content: center;
     background-color: white;
     color: black;
-    padding: 20px 0px;
+    padding: 70px 0px;
     margin: 100px 100px 0px 100px;
 }
 .card{
